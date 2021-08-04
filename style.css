@@ -1,0 +1,81 @@
+body {
+    margin: 0px;
+}
+
+#top {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+
+#top a {
+    margin-right: 20px;
+}
+
+#top img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#middle {
+    margin-top: 250px;
+}
+
+#gl {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#googlesearch {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 550px;
+    border-radius: 20px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button {
+    color:black;
+    padding: 7px 10px 7px 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: rgba(192, 190, 190, 0.267);
+    border-radius: 5px;
+
+}
+
+#offers {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#footer {
+    background-color: rgb(235, 235, 235);
+    color: gray;
+    margin-top: 350px;
+    padding-bottom: 50px;
+    margin-right: 0px;
+    
+    
+
+}
+
+hr {
+    color: rgb(230, 228, 228);
+}
+
+#text {
+    margin-left: 20px;
+}
